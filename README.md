@@ -15,4 +15,13 @@ The idea of Skatehub was born to help the skater community. Here, many resources
 - [ ] Build Frontend App
 - [ ] Test the entire application
 - [ ] Deploy application to stores
-- [ ] Improve README file
+
+### README Improvement
+- [x] Create a starter README
+- [x] Add a quick introduction to app features
+- [x] Add Development Steps
+- [ ] Add layout details with project link in Figma
+- [ ] Add details about technology used in app development
+- [ ] Add an initial target goal
+
+Figma Link: https://www.figma.com/file/Q6XfaSNXks2sQihCKk5HNr/SkateHub?node-id=203%3A260
