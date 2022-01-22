@@ -8,6 +8,10 @@ The idea of Skatehub was born to help the skater community. Here, many resources
 - Create lists of tricks to try randomly.
 
 ### Development Steps
+
+If you want to follow the development steeps further and see future ideas for the app, go to project dashboard in [Trello](https://trello.com/b/APwg8K3d/skatehub).
+Below is a general to-do list:
+
 - [x] Mature app ideas
 - [x] Design structures and choose the stack
 - [x] Build Backend REST API
