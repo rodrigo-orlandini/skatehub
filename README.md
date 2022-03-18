@@ -29,6 +29,14 @@ Some of packages/resources that were used in the **frontend**:
 
 In addition to the frontend, there is our backend. It was made a *[RESTful API](https://pt.wikipedia.org/wiki/REST)* using *[Flask](https://flask.palletsprojects.com/en/2.0.x/)*, a micro-framework for *[Python](https://www.python.org/)*. With that, our app is able to process and manage database information.
 
+The both parts of the application (Frontend and Backend) has tests. The React Native application use *[Jest](https://jestjs.io/)* to write tests and in Flask application, while the Flask application use *[Pytest library](https://docs.pytest.org/en/7.1.x/)*.
+The Frontend tests are structured as below:
+- **Unit testing** in view and container components;
+- **Integration testing** in the screens behavior.
+And the Backend tests works as below:
+- **Unit testing** to database models and utility functions;
+- **Integration testing** for passing and receiving data from API's endpoints.
+
 Some of packages/resources that were used in the **backend**:
 - **Flask RESTful** to configure API with the REST principles
 - **Flask JWT Extended** for JSON Web Tokens and authorization process
